@@ -36,10 +36,11 @@ header > h1{
     color: whitesmoke;
 }
 header > p{
-    margin-left: 160px;
+    margin-left: 100px;
     font-family: 'Playpen Sans', cursive;
     padding-bottom: 30px;
     padding-top: -20px;
+
     
 }
 main p{
@@ -61,8 +62,8 @@ header > picture > img{
 }
 nav{
     background-color: var(--color2);
-    height: 50px;
-    padding-left: 160px;    
+    height: 80px;
+    padding-left: 100px;    
     box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.589);
 }
 nav > a{
@@ -124,9 +125,10 @@ footer{
     background-color: #003858;
     color: white;
     text-align: center;
-    padding: 50px;
-    font-size: 18px;
+    font-size: 13px;
     font-weight: bold;
+    padding-top: 50px;
+    padding-bottom: 70px;
 }
 footer > a{
     color:var(--color2);
